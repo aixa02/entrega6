@@ -1,0 +1,14 @@
+langchain
+langchain-classic
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+langchain-pinecone
+langgraph
+pinecone
+sentence-transformers
+rank_bm25
+pydantic
+python-dotenv
+ipykernel
